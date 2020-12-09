@@ -1,5 +1,5 @@
 {
-  "name": "The Tale of Peter Rabbit",
+  "name": "The Night Before Christmas",
   "type": "novel",
   "has_page_numbers": true,
   "mode": {
@@ -15,8 +15,8 @@
     "colophon": "",
     "synopsis": ""
   },
-  "status": "published",
-  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-tale-of-peter-rabbit/master/assets",
-  "book_id": 869,
-  "book_url": "https://bubblin.io/book/the-tale-of-peter-rabbit-by-beatrix-potter"
+  "status": "draft",
+  "asset_url": "https://github.com/martinhbramwell/TheNightBeforeChristmas/tree/master/assets",
+  "book_id": 1396,
+  "book_url": "https://bubblin.io/book/the-night-before-christmas-by-lynnbyswaterferris"
 }
